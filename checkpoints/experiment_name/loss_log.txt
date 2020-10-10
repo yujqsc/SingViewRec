@@ -1,0 +1,9 @@
+================ Training Loss (Sat Oct 10 09:18:52 2020) ================
+(epoch: 1, iters: 10, time: 0.140, data: 0.016) D_A: 9.341 G_A: -0.000 cycle_A: 4.503 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 9.326 D_real: -0.004 D_fake: 0.012 
+(epoch: 1, iters: 20, time: 0.099, data: 0.016) D_A: 7.341 G_A: -0.009 cycle_A: 6.083 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 7.358 D_real: 0.009 D_fake: -0.008 
+(epoch: 1, iters: 30, time: 0.097, data: 0.016) D_A: 8.067 G_A: -0.008 cycle_A: 8.139 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 8.063 D_real: 0.012 D_fake: 0.016 
+(epoch: 1, iters: 40, time: 0.110, data: 0.016) D_A: 6.021 G_A: -0.025 cycle_A: 4.506 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 5.948 D_real: -0.039 D_fake: 0.034 
+(epoch: 1, iters: 50, time: 0.111, data: 0.017) D_A: 1.559 G_A: -0.008 cycle_A: 4.358 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 1.572 D_real: 0.021 D_fake: 0.008 
+(epoch: 1, iters: 60, time: 0.116, data: 0.016) D_A: 1.531 G_A: -0.001 cycle_A: 3.787 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 1.508 D_real: -0.006 D_fake: 0.017 
+(epoch: 1, iters: 70, time: 0.104, data: 0.019) D_A: 0.013 G_A: 0.061 cycle_A: 2.597 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 0.055 D_real: 0.012 D_fake: -0.030 
+(epoch: 1, iters: 80, time: 0.110, data: 0.016) D_A: 0.507 G_A: -0.024 cycle_A: 2.807 D_B: 0.000 G_B: 0.000 cycle_B: 0.000 gradient_penalty: 0.467 D_real: -0.012 D_fake: 0.028 
